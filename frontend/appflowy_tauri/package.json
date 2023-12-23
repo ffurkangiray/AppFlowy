@@ -27,7 +27,7 @@
     "@mui/system": "^5.14.4",
     "@reduxjs/toolkit": "^1.9.2",
     "@slate-yjs/core": "^1.0.0",
-    "@tanstack/react-virtual": "3.0.0-beta.54",
+    "@tanstack/react-virtual": "3.0.0",
     "@tauri-apps/api": "^1.2.0",
     "@types/react-swipeable-views": "^0.13.4",
     "dayjs": "^1.11.9",
